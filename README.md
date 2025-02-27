@@ -1,2 +1,2 @@
 # OpenerAI
-OpenerGame专属AI
+OpenerAI数据集
