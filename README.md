@@ -6,9 +6,9 @@
 - opener.json
 
 ### 内容说明
-**identity.json**是OpenerAI基础文件,主要是认主，不要乱改 
-**opener.json**是关于开了的一个集合，如暴击之类的 
-**其他**可以自创文件，特定内容，如“游戏”等，注意更新README.md 
+**identity.json**是OpenerAI基础文件,主要是认主，不要乱改  
+**opener.json**是关于开了的一个集合，如暴击之类的  
+**其他**可以自创文件，特定内容，如“游戏”等，注意更新README.md  
 
 ### 格式
 **一定准确按格式，否则会有致命错误！**
